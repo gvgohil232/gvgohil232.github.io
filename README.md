@@ -12,6 +12,11 @@ Open `index.html` in your browser.
 4. Under **Build and deployment**, select **Deploy from a branch**, choose `main` and `/ (root)`, then Save.
 5. Wait for the GitHub Pages deployment to finish.
 
+## Portfolio content
+- The project archive is based on the user's supplied 7-page resume.
+- GFit Virtual Tryon links to its official WordPress.org listing.
+- Featured projects from more recent work are presented separately from earlier resume projects.
+
 ## Before publishing
 - Confirm all project descriptions and employment dates are accurate and approved for public sharing.
 - Replace the LinkedIn placeholder URL in `index.html` with your actual profile URL.
